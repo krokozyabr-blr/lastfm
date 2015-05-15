@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LastFm</string>
+    <string name="action_dialog">Show name dialog</string>
+    <string name="username">username</string>
+    <string name="save_username">Save username</string>
+    <string name="save">Save</string>
+    <string name="enter_username">Please enter username</string>
+
+</resources>
